@@ -37,7 +37,5 @@ override.tf.json
 terraform.rc
 
 
-aws-automation/ec2-automation/lambda_stopec2_payload.zip
-aws-automation/ec2-automation/lambda_startec2_payload.zip
-
-aws-automation/ec2-automation/.terraform.lock.hcl
+aws-automation/ec2-automation/*.zip
+**/.terraform.lock.hcl
