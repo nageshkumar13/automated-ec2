@@ -37,5 +37,5 @@ override.tf.json
 terraform.rc
 
 
-aws-automation/ec2-automation/*.zip
+**/*.zip
 **/.terraform.lock.hcl
