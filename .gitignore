@@ -35,3 +35,9 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+
+aws-automation/ec2-automation/lambda_stopec2_payload.zip
+aws-automation/ec2-automation/lambda_startec2_payload.zip
+
+aws-automation/ec2-automation/.terraform.lock.hcl
